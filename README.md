@@ -1,2 +1,2 @@
-# Music Speed Changer Studio
-A music maker similar to Bandlab and Audiotool (made with SwiftUI)
+# Tendie Maker
+A wallpaper maker similar CA-Playground (made with SwiftUI)
