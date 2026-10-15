@@ -1,2 +1,2 @@
-# Emium
-A Chromium Based Web-browser made with Swift UI
+# Music Speed Changer Studio
+A music maker similar to Bandlab and Audiotool (made with SwiftUI)
